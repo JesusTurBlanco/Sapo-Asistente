@@ -1,4 +1,4 @@
-#Sapo asistente
+# Sapo asistente
 
 Estos ficheros sirven para crear un bot de discord que pueda ayudar en la automatización de servidores de minecraft. Avisando a los jugadores cuando se añade o elimina un mod y añadiendo o eliminando esos mods en una carpeta de drive a la que pueden acceder los jugadores.
 
