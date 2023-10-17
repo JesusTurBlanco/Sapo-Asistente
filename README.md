@@ -7,7 +7,6 @@ Se instalan de la siguiente forma:
 ```
 pip install PyDrive2
 pip install discord.py
-
 ```
 
 También será necesario instalar en el servidor de linux el paquete inotify-tools usando el comando:
